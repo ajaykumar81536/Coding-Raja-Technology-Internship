@@ -1,0 +1,11 @@
+i am unable to upload CREDIT CARD CSV FILE to github, because creditcard.csv file is approx 150mb 
+but github only allow upto 25mb files. so 
+
+
+this is the link of CREDITCARD.csv file : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+download the first,  then run the program...................
+
+
+
+THANK YOU !!
